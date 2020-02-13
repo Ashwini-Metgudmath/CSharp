@@ -1,0 +1,7 @@
+C:\Users\User 2\Documents\Ashwini\C#\WarriorWars\WarriorWars\bin\Debug\WarriorWars.exe.config
+C:\Users\User 2\Documents\Ashwini\C#\WarriorWars\WarriorWars\bin\Debug\WarriorWars.exe
+C:\Users\User 2\Documents\Ashwini\C#\WarriorWars\WarriorWars\bin\Debug\WarriorWars.pdb
+C:\Users\User 2\Documents\Ashwini\C#\WarriorWars\WarriorWars\obj\Debug\WarriorWars.csproj.CoreCompileInputs.cache
+C:\Users\User 2\Documents\Ashwini\C#\WarriorWars\WarriorWars\obj\Debug\WarriorWars.exe
+C:\Users\User 2\Documents\Ashwini\C#\WarriorWars\WarriorWars\obj\Debug\WarriorWars.pdb
+C:\Users\User 2\Documents\Ashwini\C#\WarriorWars\WarriorWars\obj\Debug\WarriorWars.csprojAssemblyReference.cache
