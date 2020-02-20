@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncVsAsync", "SyncVsAsync\SyncVsAsync.csproj", "{7B0173F4-305D-44DA-9EE7-ECFBA32AEA19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopySyncVsAsync", "..\CsharpPractice\CopySyncVsAsync\CopySyncVsAsync.csproj", "{B7D3FAAD-EC7D-4E21-8066-1A34115D0CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B0173F4-305D-44DA-9EE7-ECFBA32AEA19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B0173F4-305D-44DA-9EE7-ECFBA32AEA19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B0173F4-305D-44DA-9EE7-ECFBA32AEA19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B0173F4-305D-44DA-9EE7-ECFBA32AEA19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D3FAAD-EC7D-4E21-8066-1A34115D0CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D3FAAD-EC7D-4E21-8066-1A34115D0CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D3FAAD-EC7D-4E21-8066-1A34115D0CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D3FAAD-EC7D-4E21-8066-1A34115D0CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2B00F3E-879D-4339-BE3F-CD3034E66F11}
+	EndGlobalSection
+EndGlobal
